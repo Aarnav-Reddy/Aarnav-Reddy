@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aarnav-Reddy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and html
+- 🌱 I’m currently learning python and Javascript
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me n.aarnavreddy@gmail.com...
 
